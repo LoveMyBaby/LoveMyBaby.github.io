@@ -1,0 +1,6 @@
+{
+  "name": "Java 运算符",
+  "tagline": "java",
+  "body": "> > * _**<<      :     左移运算符，num << 1,相当于num乘以2**_\r\n\r\n> > * _**>>      :     右移运算符，num >> 1,相当于num除以2**_\r\n\r\n> > * _**>>>    :     无符号右移，忽略符号位，空位都以0补齐**_",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
